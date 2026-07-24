@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
 joblib
-=======
-pandas
-numpy
-scikit-learn
-joblib
->>>>>>> a87d9159ecaecce233c9c528313ecd910165c9e3
 xgboost
