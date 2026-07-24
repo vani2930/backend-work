@@ -52,7 +52,7 @@ app.post("/predict", (req, res) => {
     const pythonFile = path.join(__dirname, "predict.py");
 
     execFile(
-        "py",
+        "python3",
         [
             pythonFile,
             String(year),
